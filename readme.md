@@ -193,7 +193,8 @@ Add screenshot here.
 ### Recommendations
 
 
-<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/eb0308ea-1088-4c98-a302-8aba5a2a04da" />
+<img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/89865b90-2f20-4cdd-930e-98bed0d91bfe" />
+
 
 ---
 
