@@ -8,6 +8,14 @@ import pickle
 import pandas as pd
 import requests
 
+import gdown
+
+gdown.download(
+    "https://drive.google.com/uc?id=106gsPmwS7mQM-YmLFmADtruZy2oJ9Bea",
+    "similarity.pkl",
+    quiet=False
+)
+
 def fetch_poster(movie_id):
     response = requests.get('https://api.themoviedb.org/3/movie/{}?api_key=9578c1c9b5e7287055b76d6be791d35b&language=en-US'.format(movie_id))
     data = response.json()
