@@ -7,7 +7,7 @@ A Content-Based Movie Recommendation System built using Python, Machine Learning
 Add your deployed Streamlit link here: 
 
 ```
-https://your-app-name.streamlit.app](https://movie-recommendation-systeem.streamlit.app/)
+https://movie-recommendation-systeem.streamlit.app/
 ```
 
 ---
