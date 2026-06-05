@@ -62,6 +62,7 @@ movie-recommendation-system/
 ├── movies.pkl
 ├── similarity.pkl
 ├── requirements.txt
+├── movie_recommender_system
 ├── README.md
 
 ```
