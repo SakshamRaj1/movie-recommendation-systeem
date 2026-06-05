@@ -110,7 +110,7 @@ Movies with the highest similarity scores are recommended to the user.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/your-username/movie-recommendation-systeem.git
 
 cd movie-recommendation-system
 ```
