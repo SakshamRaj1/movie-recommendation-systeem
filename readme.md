@@ -1,14 +1,12 @@
-# 🎬 Movie Recommendation System
+🎬 Movie Recommendation System
 
-A Content-Based Movie Recommendation System built using Python, Machine Learning, and Streamlit. The application recommends movies similar to a selected movie by analyzing movie metadata and calculating similarity scores.
+<div align="center">
 
-## 🌐 Live Demo: 
+Discover movies you'll love through intelligent recommendations.
 
-```
-https://movie-recommendation-systeem.streamlit.app/
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommendation%20System-6A5ACD?style=for-the-badge)
 
----
+</div>
 
 ## 📌 Project Overview
 
